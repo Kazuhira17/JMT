@@ -1,0 +1,21 @@
+{
+  "name": "JimsMovieTheater",
+  "short_name": "JMT",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ff0000",
+  "theme_color": "#ff0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+    "src": "images/icons/iconmini48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+    },
+    {
+        "src": "images/icons/iconmini144xx144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }
+]
+}
